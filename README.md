@@ -7,6 +7,11 @@ This repo is documentation for the UCSB Library's Carpentry workshop program.
 * [UCSB Workshop Manual](workshopmanual.md)(not current)
 * [Teaching Notes](teachingnotes.md)(not current)
 
+#### Links
+* [UCSB Carpentry Homepage](../readme.html) (includes links to upcoming workshops)
+* [Collaboratory Homepage](https://www.library.ucsb.edu/interdisciplinary-research-collaboratory)
+
+
 ## GitHub Pages Documentation
 
 In case you forgot: you can use the [editor on GitHub](https://github.com/UCSBCarpentry/instructors/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
