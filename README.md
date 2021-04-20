@@ -3,9 +3,9 @@
 This repo is documentation for the UCSB Library's Carpentry workshop program.
 
 * [Interested in becoming a certified Carpentry Instructor?](instructor-training.md)
-* ### [UCSB Software Carpentry shared drive](https://drive.google.com/drive/folders/0AH4FCTIaX9AXUk9PVA) with meeting notes and other organizing documents.
-* [UCSB Workshop Manual](workshopmanual.md)
-* [Teaching Notes](teachingnotes.md)
+* [UCSB Software Carpentry shared G-drive](https://drive.google.com/drive/folders/0AH4FCTIaX9AXUk9PVA) with meeting notes and other organizing documents.
+* [UCSB Workshop Manual](workshopmanual.md)(not current)
+* [Teaching Notes](teachingnotes.md)(not current)
 
 ## GitHub Pages Documentation
 
