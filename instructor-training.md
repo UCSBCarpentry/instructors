@@ -1,3 +1,6 @@
+---
+title: UCSB Library Carpentry Instructors
+---
 # Becoming a certified Carpentry Instructor
 
 The UCSB Library and Enterprise Technology Services maintain a membership to 
