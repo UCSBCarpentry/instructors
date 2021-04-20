@@ -3,9 +3,10 @@ title: UCSB Library Carpentry Instructors
 ---
 # Becoming a certified Carpentry Instructor
 
-The UCSB Library and Enterprise Technology Services maintain a membership to 
-the Carpentries.  Each year we send a cohort of people through the Instructor
-certification process, which inludes:
+The [UCSB Library](https://www.library.ucsb.edu/) and [Enterprise Technology 
+Services](https://www.it.ucsb.edu/) maintain a membership to the 
+[Carpentries](https://carpentries.org/).  Each year we send a cohort of 
+people through the Instructor certification process, which inludes:
 
 * A 2-day, 16 hour training workshop plus some preparatory reading.
 * Making an edit to a Carpentry lesson.
@@ -20,5 +21,5 @@ to plan workshops and work on our coding skills.
 Please [contact us](mailto:collaboratory@library.ucsb.edu) if you are interested
 in becoming a Carpentry Instructor!
 
-* [UCSB Instructor Homepage](readme.html)
-* [UCSB Carpentry Homepage](../readme.html) (includes links to upcoming workshops)
+* [UCSB Instructor Homepage](index.html)
+* [UCSB Carpentry Homepage](../) (includes links to upcoming workshops)
