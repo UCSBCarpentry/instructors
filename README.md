@@ -10,7 +10,7 @@ This repo is documentation for the UCSB Library's Carpentry workshop program.
 #### Links
 * [UCSB Carpentry Homepage](../readme.html) (includes links to upcoming workshops)
 * [Collaboratory Homepage](https://www.library.ucsb.edu/interdisciplinary-research-collaboratory)
-
+* [UCSB Carpentry Community Listserv](https://groups.google.com/u/0/a/library.ucsb.edu/g/carpentry)
 
 ## GitHub Pages Documentation
 
