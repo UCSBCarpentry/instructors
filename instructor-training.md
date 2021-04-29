@@ -22,7 +22,7 @@ If you choose to participate in our upcoming instructor training:
 * Be listed on the UCSB Carpentry Repo and be helper and an instructor for a Library-organized workshop before the end of next 
   school year 
   Roles include:
-  * Inttructor
+  * Instructor
   * Host/Organizer
   * Lesson Developer 
 * Participate in team meetings in the lead up to, and immediately after, workshops in which you participate. Team meetings for 
