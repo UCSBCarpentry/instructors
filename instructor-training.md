@@ -15,17 +15,17 @@ people through the Instructor certification process, which includes:
 
 Once you are a certified Instructor, you are able to self-organize Carpentry 
 Workshops on your own. The Library's Interdisciplinary Research Collaboratory 
-also organizes and hosts about three workshops every quarter. If you would like to participate in our upcoming instructor 
-training, we expect you to follow the conditions listed below: 
+also organizes and hosts about three workshops every quarter. If you participate in an upcoming instructor 
+training, we expect some things from you in return: 
 * Complete the certification process (there are 3 post-training tasks)
-* Be listed on the UCSB Carpentry Repo and be helper and an instructor for a Library-organized workshop before the end of next 
+* Contribute to lessons on the UCSB Carpentry Repo 
+* Be a helper and an instructor for a Library-organized workshop before the end of the next 
   school year 
-  Roles include:
-  * Instructor
-  * Host/Organizer
-  * Lesson Developer 
-* Participate in team meetings in the lead up to, and immediately after, workshops in which you participate. Team meetings for 
-are Wednesdays from 9:00 - 10:20, and as needed to prepare for workshops. 
+* Participate in team meetings in the lead up to, and immediately after, workshops in which you participate. 
+
+Beyond being an instruction, you can also conribute to Carpentries by being a workshop 
+host/organizer or a lesson developer/maintainer. 
+Team meetings for are Wednesdays from 9:00 - 10:20, and as needed to prepare for workshops. 
 
 
 Please [contact us](mailto:collaboratory@library.ucsb.edu) if you are interested
